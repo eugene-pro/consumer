@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>2.png</file>
+        <file>coff.png</file>
+    </qresource>
+</RCC>
